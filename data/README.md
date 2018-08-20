@@ -1,0 +1,1 @@
+To populate this folder, login to Kaggle and download the data files from "Santander Value Prediction Challenge": [train.csv](https://www.kaggle.com/c/santander-value-prediction-challenge/download/train.csv), [test.csv](https://www.kaggle.com/c/santander-value-prediction-challenge/download/test.csv)
