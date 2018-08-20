@@ -1,0 +1,7 @@
+*.csv
+*.h5
+data/*
+results/*
+nn_model_dirs/*
+pca_result/*
+ed_model_dirs/*
